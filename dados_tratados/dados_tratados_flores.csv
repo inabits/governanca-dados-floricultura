@@ -1,0 +1,11 @@
+id_venda,cliente,data_transacao,nome_flor,tamanho_buque,tipo_entrega,preco_total,status_pedido
+501,Juliana Paes,2026-06-10,Rosa Vermelha,Grande,Retirada,120.0,Concluído
+502,Marcos Silva,2026-06-10,Rosa Vermelha,Grande,Delivery,120.0,Entregue
+503,Camila Santos,2026-06-12,Girassol Premium,Médio,Delivery,85.5,Pendente
+504,Juliana Paes,2026-06-13,Rosa Vermelha,Grande,Retirada,120.0,Concluído
+505,Roberto Carlos,2026-06-15,Orquídea Phalaenopsis,Pequeno,Retirada,180.0,Cancelado
+506,Camila Santos,2026-06-18,Girassol,Médio,Delivery,85.5,Entregue
+507,Beatriz Costa,2026-06-20,Tulipas Holandesas,Grande,Delivery,250.0,Pendente
+508,Marcos Silva,2026-06-22,Rosa Vermelha,Grande,Delivery,120.0,Entregue
+509,Desconhecido,2026-06-25,Orquídea Phalaenopsis,Pequeno,Retirada,180.0,Concluído
+510,Ana Clara,2026-06-28,Mix De Margaridas,Pequeno,Retirada,60.0,Pendente
