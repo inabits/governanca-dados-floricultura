@@ -1,0 +1,11 @@
+id_venda,cliente,data_transacao,nome_flor,tamanho_buque,tipo_entrega,preco_total,status_pedido
+501,Juliana Paes,10/06/2026,Rosa Vermelha,Grande,Retirada,"R$ 120,00",Concluido
+502,marcos silva,2026-06-10,rosa vermelha,G,delivery,120.00,entregue
+503,Camila Santos,12/06/2026,Girassol Premium,Médio,Delivery,"R$ 85,50",PENDENTE
+504,J. Paes,13/06/2026,Rosa Vermelha,grande,RETIRADA,120,Concluído
+505,Roberto Carlos,15/06/2026,Orquídea Phalaenopsis,Pequeno,Retirada,"R$ 180,00",cancelado
+506,Camila Santos,18/06/2026,Girassol,medio,delivery,85.50,Entregue
+507,beatriz costa,20/06/2026,Buquê Tulipas Holandesas,G,Delivery,"R$ 250,00",
+508,Marcos Silva,22/06/2026,Rosa Vermelha,GRANDE,Delivery,120.00,Entregue
+509,,25/06/2026,Orquidea Phalaenopsis,P,Retirada,"R$ 180,00",Concluido
+510,Ana Clara,28/06/2026,Mix de Margaridas,Pequeno,Retirada,"R$ 60,00",Pendente
